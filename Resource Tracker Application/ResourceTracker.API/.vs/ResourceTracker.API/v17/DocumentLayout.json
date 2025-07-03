@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Saurabh Bakolia\\Proof of Concept Assignment Resources\\Resource Tracker Application\\ResourceTracker.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F45422-A61C-4079-8D18-5E691D45E3C4}|ResourceTracker.API.csproj|d:\\saurabh bakolia\\proof of concept assignment resources\\resource tracker application\\resourcetracker.api\\controllers\\resourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F45422-A61C-4079-8D18-5E691D45E3C4}|ResourceTracker.API.csproj|solutionrelative:controllers\\resourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F45422-A61C-4079-8D18-5E691D45E3C4}|ResourceTracker.API.csproj|d:\\saurabh bakolia\\proof of concept assignment resources\\resource tracker application\\resourcetracker.api\\data\\resourcedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F45422-A61C-4079-8D18-5E691D45E3C4}|ResourceTracker.API.csproj|solutionrelative:data\\resourcedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F45422-A61C-4079-8D18-5E691D45E3C4}|ResourceTracker.API.csproj|d:\\saurabh bakolia\\proof of concept assignment resources\\resource tracker application\\resourcetracker.api\\models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F45422-A61C-4079-8D18-5E691D45E3C4}|ResourceTracker.API.csproj|solutionrelative:models\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F45422-A61C-4079-8D18-5E691D45E3C4}|ResourceTracker.API.csproj|d:\\saurabh bakolia\\proof of concept assignment resources\\resource tracker application\\resourcetracker.api\\services\\iresourceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F45422-A61C-4079-8D18-5E691D45E3C4}|ResourceTracker.API.csproj|solutionrelative:services\\iresourceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F45422-A61C-4079-8D18-5E691D45E3C4}|ResourceTracker.API.csproj|d:\\saurabh bakolia\\proof of concept assignment resources\\resource tracker application\\resourcetracker.api\\repositories\\resourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F45422-A61C-4079-8D18-5E691D45E3C4}|ResourceTracker.API.csproj|solutionrelative:repositories\\resourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F45422-A61C-4079-8D18-5E691D45E3C4}|ResourceTracker.API.csproj|d:\\saurabh bakolia\\proof of concept assignment resources\\resource tracker application\\resourcetracker.api\\repositories\\iresourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F45422-A61C-4079-8D18-5E691D45E3C4}|ResourceTracker.API.csproj|solutionrelative:repositories\\iresourcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F45422-A61C-4079-8D18-5E691D45E3C4}|ResourceTracker.API.csproj|d:\\saurabh bakolia\\proof of concept assignment resources\\resource tracker application\\resourcetracker.api\\services\\resourceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F45422-A61C-4079-8D18-5E691D45E3C4}|ResourceTracker.API.csproj|solutionrelative:services\\resourceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F45422-A61C-4079-8D18-5E691D45E3C4}|ResourceTracker.API.csproj|d:\\saurabh bakolia\\proof of concept assignment resources\\resource tracker application\\resourcetracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F45422-A61C-4079-8D18-5E691D45E3C4}|ResourceTracker.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResourceService.cs",
+              "DocumentMoniker": "D:\\Saurabh Bakolia\\Proof of Concept Assignment Resources\\Resource Tracker Application\\ResourceTracker.API\\Services\\ResourceService.cs",
+              "RelativeDocumentMoniker": "Services\\ResourceService.cs",
+              "ToolTip": "D:\\Saurabh Bakolia\\Proof of Concept Assignment Resources\\Resource Tracker Application\\ResourceTracker.API\\Services\\ResourceService.cs",
+              "RelativeToolTip": "Services\\ResourceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T06:43:44.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Saurabh Bakolia\\Proof of Concept Assignment Resources\\Resource Tracker Application\\ResourceTracker.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Saurabh Bakolia\\Proof of Concept Assignment Resources\\Resource Tracker Application\\ResourceTracker.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T06:42:14.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resource.cs",
+              "DocumentMoniker": "D:\\Saurabh Bakolia\\Proof of Concept Assignment Resources\\Resource Tracker Application\\ResourceTracker.API\\Models\\Resource.cs",
+              "RelativeDocumentMoniker": "Models\\Resource.cs",
+              "ToolTip": "D:\\Saurabh Bakolia\\Proof of Concept Assignment Resources\\Resource Tracker Application\\ResourceTracker.API\\Models\\Resource.cs",
+              "RelativeToolTip": "Models\\Resource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T06:56:17.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResourceDbContext.cs",
+              "DocumentMoniker": "D:\\Saurabh Bakolia\\Proof of Concept Assignment Resources\\Resource Tracker Application\\ResourceTracker.API\\Data\\ResourceDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ResourceDbContext.cs",
+              "ToolTip": "D:\\Saurabh Bakolia\\Proof of Concept Assignment Resources\\Resource Tracker Application\\ResourceTracker.API\\Data\\ResourceDbContext.cs",
+              "RelativeToolTip": "Data\\ResourceDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAKBwwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T06:41:42.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResourceController.cs",
+              "DocumentMoniker": "D:\\Saurabh Bakolia\\Proof of Concept Assignment Resources\\Resource Tracker Application\\ResourceTracker.API\\Controllers\\ResourceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ResourceController.cs",
+              "ToolTip": "D:\\Saurabh Bakolia\\Proof of Concept Assignment Resources\\Resource Tracker Application\\ResourceTracker.API\\Controllers\\ResourceController.cs",
+              "RelativeToolTip": "Controllers\\ResourceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T06:44:09.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IResourceRepository.cs",
+              "DocumentMoniker": "D:\\Saurabh Bakolia\\Proof of Concept Assignment Resources\\Resource Tracker Application\\ResourceTracker.API\\Repositories\\IResourceRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IResourceRepository.cs",
+              "ToolTip": "D:\\Saurabh Bakolia\\Proof of Concept Assignment Resources\\Resource Tracker Application\\ResourceTracker.API\\Repositories\\IResourceRepository.cs",
+              "RelativeToolTip": "Repositories\\IResourceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T06:42:28.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResourceRepository.cs",
+              "DocumentMoniker": "D:\\Saurabh Bakolia\\Proof of Concept Assignment Resources\\Resource Tracker Application\\ResourceTracker.API\\Repositories\\ResourceRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ResourceRepository.cs",
+              "ToolTip": "D:\\Saurabh Bakolia\\Proof of Concept Assignment Resources\\Resource Tracker Application\\ResourceTracker.API\\Repositories\\ResourceRepository.cs",
+              "RelativeToolTip": "Repositories\\ResourceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T06:42:55.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IResourceService.cs",
+              "DocumentMoniker": "D:\\Saurabh Bakolia\\Proof of Concept Assignment Resources\\Resource Tracker Application\\ResourceTracker.API\\Services\\IResourceService.cs",
+              "RelativeDocumentMoniker": "Services\\IResourceService.cs",
+              "ToolTip": "D:\\Saurabh Bakolia\\Proof of Concept Assignment Resources\\Resource Tracker Application\\ResourceTracker.API\\Services\\IResourceService.cs",
+              "RelativeToolTip": "Services\\IResourceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T06:43:29.335Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
